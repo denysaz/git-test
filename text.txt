@@ -1,5 +1,10 @@
-the first line
-the second line
+there was two lines
 
 1st line from github ui
 2nd lile from github ui
+
+here lines for test git gui:
+test line 1
+test line 2
+
+test file on stage
