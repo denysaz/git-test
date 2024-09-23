@@ -8,3 +8,15 @@ test line 1
 test line 2
 
 test file on stage
+
+i have done test with reset command
+
+now i learning about revert command
+it is needed to undo after push to remote repository
+
+we will undo this lines:
+1
+2
+
+3
+4 
