@@ -16,3 +16,6 @@ it is needed to undo after push to remote repository
 
 we will undo this lines:
 *content was eresed*
+
+text 1
+Text 2
