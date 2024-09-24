@@ -22,5 +22,8 @@ text 1
 trainee's text
 Text 2
 
-Test 2:
+Test 2 (FAILED):
 Text trainee
+
+Test 3:
+test trainee
