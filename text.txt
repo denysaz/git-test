@@ -17,6 +17,10 @@ it is needed to undo after push to remote repository
 we will undo this lines:
 *content was eresed*
 
+Test 1 (FAILED):
 text 1
 trainee's text
 Text 2
+
+Test 2:
+Text 1
