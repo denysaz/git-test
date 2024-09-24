@@ -18,4 +18,5 @@ we will undo this lines:
 *content was eresed*
 
 text 1
+trainee's text
 Text 2
